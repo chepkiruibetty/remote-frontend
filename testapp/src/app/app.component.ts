@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  subjects = [{title:'test'}];
+  subjects = [{title:'test'},{title:'test2'}];
+  
 }
